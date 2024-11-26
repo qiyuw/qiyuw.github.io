@@ -1,0 +1,151 @@
+% !TEX program = xelatex
+\documentclass{resume}
+  %\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+  %\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+  \usepackage{hyperref}
+  \usepackage{color}
+  \usepackage[UTF8]{ctex}
+  \hypersetup{
+      colorlinks=true,
+      linkcolor=black,
+      filecolor=black,      
+      urlcolor=black
+  }
+  \begin{document}
+  \pagestyle{empty}
+  \name{Qiyu Wu}
+  \phone{Email: \href{wuqiyu576@gmail.com}{\textcolor{blue}{wuqiyu576@gmail.com}}} 
+  % \textperiodcentered\ 
+  % \phone{Tel: (+81) 080-7347-9025}
+  \textperiodcentered\ 
+  \phone{\href{https://qiyuw.github.io/}{Personal Website: \textcolor{blue}{qiyuw.github.io}}}
+  \textperiodcentered\ 
+  \phone{\href{https://www.linkedin.com/in/qiyuw/}{LinkedIn: \textcolor{blue}{qiyuw}}}
+  
+  \phone{Keywords: NLP; Text Embeddings; LLMs/VLMs.}
+
+
+  \section{Summary}
+  Ph.D. specializing in NLP, focusing on \textbf{learning text embeddings/representation} [C8, C7, C5, C4, J1, C3] and \textbf{fine-grained LLMs/VLMs} [C12, M1, C11]. I also collaborate on \textbf{entity representation} [C6] and \textbf{reinforcement learning} [C10] for expanding my scope. These works have been presented at conferences such as ACL, EMNLP, ICLR, NAACL, ICML, etc.
+  \vspace{-4pt}
+
+  \section{Education}
+  \datedline{\textbf{- The University of Tokyo}, \textit{Ph.D. Degree in Information Science \& Technology.}}{2021.10 -- 2024.09}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Ph.D. at \href{https://www.logos.t.u-tokyo.ac.jp/}{Tsuruoka Lab}; JSPS DC2 Fellowship; JST SPRING Fellowship.
+  \datedline{\textbf{- Peking University}, \textit{M.Sc. Degree in Computer Software \& Theory.}}{2018.09 -- 2021.07}
+  \datedline{\textbf{- Sichuan University}, \textit{B.Eng. Degree in Computer Science \& Technology.}}{2014.09 -- 2018.07}
+
+
+  \section{Research Experiences}
+  \datedline{\textbf{- Ph.D. at UTokyo, Tsuruoka Lab}}{2021.10 -- 2024.09}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Word-level preference for LLM-based machine translation [C12];
+  Scene graph alignment for text-to-image evaluation [C11];
+  Word alignment pre-training [C5];
+  Cross-lingual text embeddings [C8, C7].
+
+  \datedline{\textbf{- Research Intern at Sony, Creative AI Lab}}{2023.06 -- 2023.09}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Bi-modal data augmentation for mitigating reporting bias in visual-language dataset \textnormal{[M1]}.
+
+  \datedline{\textbf{- Visiting Student at UC San Diego}}{2023.01 -- 2023.02}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Generalized diffusion model [C9].
+
+  \datedline{\textbf{- Research Intern at Microsoft}}{2021.10 -- 2022.02}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Multiple positive examples in sentence embeddings with contrastive learning \textnormal{[C4]}.
+  % \vspace{-4pt}
+
+  \datedline{\textbf{- Research Intern at Microsoft Research, Asia}}{2020.04 -- 2021.06}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Acceleration of language pre-training via better rare word representation \textnormal{[C3]}.
+  % \vspace{-4pt}
+  
+  \datedline{\textbf{- R\&D Intern at Baidu Research}}{2019.10 -- 2020.02}
+  \hangindent 1em
+  \hangafter=0
+  \noindent
+  Multi-task transportation prediction \textnormal{[C2]}; Route mode recommendation in Baidu Maps.
+  % \vspace{-7pt}
+
+  \section{\textbf{Research Papers}}
+  \textbf{$*$ indicates equal contribution; $\dagger$ indicates students mentored by me.}
+  \vspace{-5pt}
+  \begin{description}[leftmargin=*]
+    
+    \item [{[C12]}] \underline{Qiyu Wu}, Masaaki Nagata, Zhongtao Miao, Yoshimasa Tsuruoka. \href{https://arxiv.org/abs/2405.09223}{``Word Alignment as Preference for Machine Translation''}, \textit{\textbf{(EMNLP 2024, main conference long paper, Oral)}}.
+
+    \item [{[C11]}] \underline{Qiyu Wu}, Zilong Wu, Yoshimasa Tsuruoka. \href{https://human-interpretable-ai.github.io/assets/pdf/10_SGA_Scene_Graph_Alignment_f.pdf}{``SGA: Scene Graph Alignment for Evaluation of Text-to-Image Generation''}, \textit{\textbf{(KDD 2024 Workshop HI-AI)}}.
+
+    \item [{[C10]}] Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, \underline{Qiyu Wu}, Guoqing Liu, Masashi Sugiyama. \href{https://arxiv.org/pdf/2402.03771.pdf}{``Reinforcement Learning from Bagged Reward''}, \textit{\textbf{(ICML 2024 Workshop ARLET)}}.
+    
+    \item [{[C9]}] Guangyi Liu, Yu Wang, Zeyu Feng, \underline{Qiyu Wu}, Liping Tang, Yuan Gao, Zhen Li, Shuguang Cui, Julian McAuley, Eric P. Xing, Zichao Yang, Zhiting Hu. \href{https://arxiv.org/abs/2402.19009}{``Unified Generation, Reconstruction, and Representation: Generalized Diffusion with Adaptive Latent Encoding-Decoding''}, \textit{in the Forty-first International Conference on Machine Learning. \textbf{(ICML 2024)}}.
+    
+    \item [{[C8]}] Zhongtao Miao$^{\dagger}$, \underline{Qiyu Wu}, Kaiyan Zhao, Zilong Wu, Yoshimasa Tsuruoka. \href{https://aclanthology.org/2024.findings-naacl.204/}{``Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment''}, in \textit{the 2022 Conference of the North American Chapter of the Association for Computational Linguistics \textbf{(NAACL 2024, findings)}}.
+    
+    \item [{[C7]}] Kaiyan Zhao$^{\dagger*}$, \underline{Qiyu Wu$^*$}, Xin-Qiang Cai, Yoshimasa Tsuruoka. \href{https://arxiv.org/abs/2309.08929}{``Leveraging Multi-lingual Positive Instances in Contrastive Learning to Improve Sentence Embedding''}, in \textit{the 18th Conference of the European Chapter of the Association for Computational Linguistics \textbf{(EACL 2024, main conference long paper)}}.
+
+    \item [{[C6]}] Shiwen Wu, \underline{Qiyu Wu}, Honghua Dong, Wen Hua, Xiaofang Zhou. \href{https://dl.acm.org/doi/abs/10.14778/3632093.3632096}{``Blocker and Matcher Can Mutually Benefit: A Co-Learning Framework for Low-Resource Entity Resolution.''}, \textit{Proc. VLDB Endow. (2024). Will appear at Very Large Databases Conf. (\textbf{VLDB 2024, research track paper})}.
+    
+    \item [{[M1]}] \underline{Qiyu Wu}, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. \href{https://arxiv.org/abs/2310.01330}{``Towards Reporting Bias in Visual-language Datasets: Bi-modal Data Augmentation by Decoupling Object-attribute Association''}, \textit{preprint (arXiv:2310.01330)}.
+    
+    \item [{[C5]}] \underline{Qiyu Wu}, Masaaki Nagata, Yoshimasa Tsuruoka. \href{https://arxiv.org/abs/2306.05644}{``WSPAlign: Word Alignment Pre-training via Large-Scale Weakly Supervised Span Prediction''}, in \textit{the 61st Annual Meeting of the Association for Computational Linguistics (\textbf{ACL 2023, main conference long paper})}.
+    
+    \item [{[C4]}] \underline{Qiyu Wu}, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Daxin Jiang. ``\href{https://aclanthology.org/2022.emnlp-main.826.pdf}{PCL: Peer-Contrastive Learning with Diverse Augmentations for Sentence Embeddings}'', in \textit{Conference on Empirical Methods in Natural Language Processing (\textbf{EMNLP 2022, main conference long paper})}.
+    
+    \item [{[J1]}] Yutao Xie$^\dagger$, \underline{Qiyu Wu}, Wei Chen and Tengjiao Wang. ``\href{https://ieeexplore.ieee.org/abstract/document/9872078}{Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning'', in \textit{IEEE/ACM Transactions on Audio, Speech, and Language Processing (\textbf{TASLP}), vol. 30, pp. 3046-3059, 2022}}.
+    
+    \item [{[C3]}] \underline{Qiyu Wu$^*$}, Chen Xing$^*$, Yatao Li, Guolin Ke, Di He, Tie-Yan Liu. ``\href{https://openreview.net/forum?id=lU5Rs_wCweN}{Taking Notes on the Fly Helps Language Pre-Training}'', in \textit{the Ninth International Conference on Learning Representations \textbf{(ICLR 2021)}}.
+    
+    \item [{[C2]}] Hao Liu$^*$, \underline{Qiyu Wu$^*$}, Fuzhen Zhuang, Xinjiang Lu, Dejing Dou, Hui Xiong. ``\href{https://ojs.aaai.org/index.php/AAAI/article/view/16107}{Community-Aware Multi-Task Transportation Demand Prediction}'', in \textit{ Thirty-Fifth AAAI Conference on Artificial Intelligence (\textbf{AAAI 2021})}.
+    
+    \item [{[C1]}] Dechuan Yang$^*$, \underline{Qiyu Wu$^*$}, Wei Chen, Tengjiao Wang, Zhen Qiu, Di Liu. ``\href{https://link.springer.com/chapter/10.1007/978-3-030-60450-9_44}{Stance Detection with Stance-wise Convolution Network}'', in the \textit{2022 CCF International Conference on Natural Language Processing and Chinese Computing}.
+  \end{description}
+
+  \rightline{[J]: Journal paper; [C]: Conference paper; [M]: Manuscript; [N]: Non-refereed.}
+
+  % \section{Non-refereed Papers}
+  % \begin{description}[leftmargin=*]
+  %   \item [{[N3]}] 苗中濤$^\dagger$, 趙開顔, 呉梓隆, \underline{呉奇宇}, 鶴岡慶雅. \href{https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-24.pdf}{``教育を目的とした日本語初等数学問題に特化した 大規模言語モデルの構築''}, 言語処理学会 第30回年次大会.
+
+  %   \item [{[N2]}] 趙開顔$^\dagger$, \underline{呉奇宇}, 苗中濤, 呉梓隆, 鶴岡慶雅. \href{https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-26.pdf}{``単一トークン適応による大規模言語モデルに基づく文埋め込み''}, 言語処理学会 第30回年次大会.
+
+  %   \item [{[N1]}] 趙開顔$^\dagger$, \underline{呉奇宇}, 村田秀樹, 石川隆一, 根之木颯亮, 山本覚, 鶴岡慶雅. \href{https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-1.pdf}{``ホッピングマスクを利用した Stable Diffusion Model による連続画像生成''}, 言語処理学会 第29回年次大会.
+  
+  % \end{description}
+
+  % \section{Awards and Scholarships}  
+  % \begin{itemize}[leftmargin=*]
+  %   \item \datedline{Research Fellowship for Young Scientists (DC2), JSPS}{2024}
+  %   \item \datedline{Support for Pioneering Research Initiated by the Next Generation (SPRING) Fellowship, JST}{2021}
+  %   % \item \datedline{Excellent Research Award, Peking University}{2020}
+  % \end{itemize}
+
+  \section{Mentoring and Services}
+  \begin{itemize}[leftmargin=*]
+    \item Mentoring:
+      \begin{itemize}
+        \item \datedline{Zhongtao Miao, Ph.D. student at The University of Tokyo, published [C8, C12].}{2023 -- 2024}
+        \item \datedline{Kaiyan Zhao, Ph.D. student at The University of Tokyo, published [C7].}{2022 -- 2024}
+        \item \datedline{Yutao Xie, Ph.D. student at Peking University, published [J1].}{2020 -- 2021}
+      \end{itemize}
+
+    \item \datedline{Teaching Assistant of \href{https://joshhug.github.io/sic19/}{``Social Implications of Computing''} at Peking University.}{2019 \space Summer}
+    \item \datedline{Reviewer of ACL Rolling Review, EMNLP, ICLR, NeurIPS, ICML, etc.}{2021 -- Present}
+  \end{itemize}
+
+  \end{document}

@@ -1,0 +1,15 @@
+# Site Settings
+title: Qiyu's Pages
+description:
+author: Qiyu
+resume_url: /resume/resume.pdf
+linkedin_url: https://www.linkedin.com/in/qiyuw/
+google_url: https://scholar.google.com/citations?user=oDn0AnwAAAAJ
+show_downloads: True
+logo: /favicon.ico
+google_analytics: G-G8NGCVQGBH
+portrait: /portrait.jpg
+
+
+# theme
+theme: jekyll-theme-minimal
