@@ -21,6 +21,7 @@ I have published papers at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AA
 * [More](/pubs)
 
 ## News
+* 2025-02, serve as Area Chair for ACL Rolling Review.
 * 2024-10, I join [Sony Creative AI Lab](https://sony.github.io/creativeai/), I'll mainly work on multi-modal representation learning.
 * 2024-09, a long paper on [word-level preference for machine translation](https://arxiv.org/abs/2405.09223) is accepted to EMNLP 2024 main conference (Oral).
 * 2024-04, a paper on [generalized diffusion model](https://arxiv.org/abs/2402.19009) is accepted to ICML 2024.

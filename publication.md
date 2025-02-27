@@ -7,11 +7,15 @@ permalink: /pubs
 # Publications
 [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 \* indicating equal contribution; † indicating students mentored by me.
+## 2025
+* Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), preprint.
+
 ## 2024
 * **Qiyu Wu**, Masaaki Nagata, Zhongtao Miao, Yoshimasa Tsuruoka. ["Word Alignment as Preference for Machine Translation"](https://arxiv.org/abs/2405.09223), **EMNLP 2024, Oral**.
 * **Qiyu Wu**, Zilong Wu, Yoshimasa Tsuruoka. ["SGA: Scene Graph Alignment for Evaluation of Text-to-Image Generation"](https://human-interpretable-ai.github.io/assets/pdf/10_SGA_Scene_Graph_Alignment_f.pdf), **KDD 2024 Workshop HI-AI**.
+* Yuting Tang, Xin-Qiang Cai, Jing-Cheng Pang, **Qiyu Wu**, Yao-Xiang Ding, Masashi Sugiyama. ["Beyond Simple Sum of Delayed Rewards: Non-Markovian Reward Modeling for Reinforcement Learning"](https://arxiv.org/pdf/2410.20176), preprint.
 * Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward."](https://arxiv.org/pdf/2402.03771.pdf), **ICML 2024 Workshop ARLET**.
-* Guangyi Liu, Yu Wang, Zeyu Feng, Qiyu Wu, Liping Tang, Yuan Gao, Zhen Li, Shuguang Cui, Julian McAuley, Eric P. Xing, Zichao Yang, Zhiting Hu. ["Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding"](https://arxiv.org/abs/2402.19009), **ICML 2024**.
+* Guangyi Liu, Yu Wang, Zeyu Feng, **Qiyu Wu**, Liping Tang, Yuan Gao, Zhen Li, Shuguang Cui, Julian McAuley, Eric P. Xing, Zichao Yang, Zhiting Hu. ["Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding"](https://arxiv.org/abs/2402.19009), **ICML 2024**.
 * Zhongtao Miao†, **Qiyu Wu**, Kaiyan Zhao, Zilong Wu, Yoshimasa Tsuruoka. ["Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment."](https://aclanthology.org/2024.findings-naacl.204/), **NAACL 2024, findings**.
 * Kaiyan Zhao*†, **Qiyu Wu\***, Xin-Qiang Cai, Yoshimasa Tsuruoka. ["Leveraging Multi-lingual Positive Instances in Contrastive Learning to Improve Sentence Embedding."](https://aclanthology.org/2024.eacl-long.59/), **EACL 2024, main conference long paper**.
 
