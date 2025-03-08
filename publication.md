@@ -9,6 +9,7 @@ permalink: /pubs
 \* indicating equal contribution; † indicating students mentored by me.
 ## 2025
 * Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), preprint.
+* Zilong Wu, Hideki Murata, Nayu Takahashi, **Qiyu Wu**, Yoshimasa Tsuruoka. ["LatentPS: Image Editing Using Latent Representations in Diffusion Models"](https://openaccess.thecvf.com/content/WACV2025W/ImageQuality/papers/Wu_LatentPS_Image_Editing_Using_Latent_Representations_in_Diffusion_Models_WACVW_2025_paper.pdf), Proceedings of the Winter Conference on Applications of Computer Vision, 167-176.
 
 ## 2024
 * **Qiyu Wu**, Masaaki Nagata, Zhongtao Miao, Yoshimasa Tsuruoka. ["Word Alignment as Preference for Machine Translation"](https://arxiv.org/abs/2405.09223), **EMNLP 2024, Oral**.
@@ -34,6 +35,7 @@ permalink: /pubs
 * Dechuan Yang\*, **Qiyu Wu\***, Wei Chen, Tengjiao Wang, Zhen Qiu, Di Liu and Yingbao Cui. “Stance Detection with Stance-Wise Convolution Network.” Natural Language Processing and Chinese Computing (**NLPCC 2020**).
 
 ## Non-refereed Papers
-* 苗中濤†, 趙開顔, 呉梓隆, **呉奇宇**, 鶴岡慶雅. ["教育を目的とした日本語初等数学問題に特化した 大規模言語モデルの構築."](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-24.pdf) 言語処理学会 第30回年次大会
-* 趙開顔†, **呉奇宇**, 苗中濤, 呉梓隆, 鶴岡慶雅. ["単一トークン適応による大規模言語モデルに基づく文埋め込み."](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-26.pdf) 言語処理学会 第30回年次大会
-* 趙開顔†, **呉奇宇**, 村田秀樹, 石川隆一, 根之木颯亮, 山本覚, 鶴岡慶雅. ["ホッピングマスクを利用した Stable Diffusion Model による連続画像生成".](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-1.pdf) 言語処理学会 第29回年次大会
+* 苗中濤†, 趙開顔, 呉梓隆, **呉奇宇**, 鶴岡慶雅. ["教育を目的とした日本語初等数学問題に特化した 大規模言語モデルの構築."](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-24.pdf) 言語処理学会 第30回年次大会.
+* 趙開顔†, **呉奇宇**, 苗中濤, 呉梓隆, 鶴岡慶雅. ["単一トークン適応による大規模言語モデルに基づく文埋め込み."](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-26.pdf) 言語処理学会 第30回年次大会.
+* 趙開顔†, **呉奇宇**, 村田秀樹, 石川隆一, 根之木颯亮, 山本覚, 鶴岡慶雅. ["ホッピングマスクを利用した Stable Diffusion Model による連続画像生成".](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q9-1.pdf) 言語処理学会 第29回年次大会.
+* ["Method, apparatus, device and storage medium for predicting people flow".](https://patents.google.com/patent/CN111612249B/en) Patent, Publication of [CN111612249B](https://patentimages.storage.googleapis.com/8d/97/b0/2fa5a0ca413683/CN111612249A.pdf), 2023.
