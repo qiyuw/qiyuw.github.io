@@ -2,7 +2,7 @@
 
 Hi there! This is Qiyu Wu, an NLP researcher at [Sony Creative AI Lab](https://sony.github.io/creativeai/).
 Previously I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
-**[Here is my CV](/Resume.pdf)**.
+**[Here is my CV](/CV.pdf)**.
 Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.linkedin.com/in/qiyuw/).
 
 <!-- I'm supported by [JSPS DC2 Fellowship](https://www.jsps.go.jp/english/e-pd/index.html) and [JST SPRING Fellowship](https://www.jst.go.jp/jisedai/en/) during my Ph.D. program. -->
