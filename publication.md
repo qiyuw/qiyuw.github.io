@@ -8,6 +8,7 @@ permalink: /pubs
 [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 \* indicating equal contribution; † indicating students mentored by me.
 ## 2025
+* Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward."](https://openreview.net/forum?id=bXUipBbZDA), **Transactions on Machine Learning Research**.
 * Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), preprint.
 * Zilong Wu, Hideki Murata, Nayu Takahashi, **Qiyu Wu**, Yoshimasa Tsuruoka. ["LatentPS: Image Editing Using Latent Representations in Diffusion Models"](https://openaccess.thecvf.com/content/WACV2025W/ImageQuality/papers/Wu_LatentPS_Image_Editing_Using_Latent_Representations_in_Diffusion_Models_WACVW_2025_paper.pdf), Proceedings of the Winter Conference on Applications of Computer Vision, 167-176.
 

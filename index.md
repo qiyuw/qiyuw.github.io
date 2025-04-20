@@ -2,7 +2,7 @@
 
 Hi there! This is Qiyu Wu, an NLP researcher at [Sony Creative AI Lab](https://sony.github.io/creativeai/).
 Previously I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
-**[Here is my CV](/resume/resume.pdf)**.
+**[Here is my CV](/Resume.pdf)**.
 Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.linkedin.com/in/qiyuw/).
 
 <!-- I'm supported by [JSPS DC2 Fellowship](https://www.jsps.go.jp/english/e-pd/index.html) and [JST SPRING Fellowship](https://www.jst.go.jp/jisedai/en/) during my Ph.D. program. -->
@@ -21,6 +21,7 @@ I have published papers at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AA
 * [More](/pubs)
 
 ## News
+* 2025-04, a paper on [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is accepted to Transactions on Machine Learning Research.
 * 2025-02, serve as Area Chair for ACL Rolling Review.
 * 2024-10, I join [Sony Creative AI Lab](https://sony.github.io/creativeai/), I'll mainly work on multi-modal representation learning.
 * 2024-09, a long paper on [word-level preference for machine translation](https://arxiv.org/abs/2405.09223) is accepted to EMNLP 2024 main conference (Oral).
