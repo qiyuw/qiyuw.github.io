@@ -21,6 +21,7 @@ I have published papers at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AA
 * [More](/pubs)
 
 ## News
+* 2025-05, a paper on word alignment is accepted to ACL findings.
 * 2025-04, a paper on [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is accepted to Transactions on Machine Learning Research.
 * 2025-02, serve as Area Chair for ACL Rolling Review.
 * 2024-10, I join [Sony Creative AI Lab](https://sony.github.io/creativeai/), I'll mainly work on multi-modal representation learning.
