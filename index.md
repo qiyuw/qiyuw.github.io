@@ -1,6 +1,6 @@
 # Qiyu Wu
 
-Hi there! This is Qiyu Wu, an NLP researcher at [Sony Creative AI Lab](https://sony.github.io/creativeai/).
+Hi there! This is Qiyu Wu, an NLP researcher and tech lead at Multimodal NLP team of [Creative AI Lab, Sony](https://sony.github.io/creativeai/).
 Previously I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
 I have served as an Area Chair (Action Editor) for the ACL Rolling Review (ARR), supporting conferences such as ACL, EMNLP, and others. I have also acted as a program committee member (reviewer) for several top-tier conferences including ACL, EMNLP, NAACL, ICLR, NeurIPS, and ICML. Additionally, I co-organized the [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.
 **[Here is my CV](/CV.pdf)**.
@@ -9,9 +9,10 @@ Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.lin
 <!-- I'm supported by [JSPS DC2 Fellowship](https://www.jsps.go.jp/english/e-pd/index.html) and [JST SPRING Fellowship](https://www.jst.go.jp/jisedai/en/) during my Ph.D. program. -->
 
 ## Research Interests
-My research focus lies in **semantic representation learning for NLP**, mainly encompassing better representing word/phrase semantics, sentence semantics, in both monolingual and multilingual contexts. I am also interested in visual-language representation and entity representation.
-I have published papers at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AAAI, EACL, VLDB, etc.
+My research focus lies in **Multimodal NLP**, mainly encompassing multimodal LLMs as well as better representing textual semantics, in both monolingual and multilingual contexts.
+I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AAAI, EACL, VLDB, etc.
 
+<!---
 ## Publications
 * **Qiyu Wu**, Masaaki Nagata, Zhongtao Miao, Yoshimasa Tsuruoka. “Word Alignment as Preference for Machine Translation.”, **EMNLP 2024, Oral**. [[Paper]](https://arxiv.org/abs/2405.09223)
 * Zhongtao Miao†, **Qiyu Wu**, Kaiyan Zhao, Zilong Wu, Yoshimasa Tsuruoka. “Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment.”, **NAACL 2024, findings**. [[Paper]](https://aclanthology.org/2024.findings-naacl.204/)
@@ -19,7 +20,7 @@ I have published papers at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AA
 * **Qiyu Wu**, Masaaki Nagata, Yoshimasa Tsuruoka. “WSPAlign: Word Alignment Pre-training via Large-Scale Weakly Supervised Span Prediction.”, at **ACL 2023, main conference long paper**. [[Paper]](https://arxiv.org/abs/2306.05644) [[Code]](https://github.com/qiyuw/WSPAlign)
 * **Qiyu Wu**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng and Daxin Jiang. “PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings.” **EMNLP 2022, main conference long paper**. [[Paper]](https://aclanthology.org/2022.emnlp-main.826.pdf) [[Code]](https://github.com/qiyuw/PeerCL)
 * **Qiyu Wu**, Chen Xing, Yatao Li, Guolin Ke, Di He and Tie-Yan Liu. “Taking Notes on the Fly Helps Language Pre-Training.” **ICLR 2021**. [[Paper]](https://openreview.net/pdf?id=lU5Rs_wCweN)
-* [More](/pubs)
+-->
 
 ## News
 * 2025-07, co-organize [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025. 
