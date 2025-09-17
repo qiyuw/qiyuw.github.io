@@ -1,4 +1,4 @@
-# Qiyu Wu
+# Bio
 
 Hi there! This is Qiyu Wu, an NLP researcher and tech lead at Multimodal NLP team of [Creative AI Lab, Sony](https://sony.github.io/creativeai/).
 Previously I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
