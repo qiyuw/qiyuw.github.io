@@ -8,7 +8,7 @@ permalink: /exper
 
 ---
 
-## Research Scientist at Sony
+## Research Scientist and Tech Lead at Sony
 ### Oct 2024 -- Present, Tokyo
 Multi-modal NLP and retrieval.
 
@@ -17,7 +17,7 @@ Multi-modal NLP and retrieval.
 JSPS (The Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC2). This fellowship program is Japan’s core program for cultivating young researchers.
 
 ## Services
-Area Chair of ACL Rolling Review (2025); Reviewer of ACL Rolling Review (2023, 2024); ICLR (2022, 2023, 2024); EMNLP 2023; NeurIPS (2021, 2022, 2023); ICML 2022.
+Area Chair of ACL Rolling Review (2025); Organizer of [GenProCC Workshop](https://genprocc.github.io/) at NeurIPS 2025; Reviewer of ACL Rolling Review (2023, 2024); ICLR (2022, 2023, 2024); EMNLP 2023; NeurIPS (2021, 2022, 2023); ICML 2022.
 
 # Internship
 
