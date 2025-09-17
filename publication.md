@@ -8,7 +8,7 @@ permalink: /pubs
 [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 \* indicating equal contribution; † indicating students mentored by me.
 ## 2025
-* **Qiyu Wu**, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. ["Towards Reporting Bias in Visual-language Datasets: Bimodal Augmentation by Decoupling Object-attribute Association."](https://arxiv.org/abs/2310.01330), ICCV 2025 MRR Workshop.
+* **Qiyu Wu**, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. ["Towards Reporting Bias in Visual-language Datasets: Bimodal Augmentation by Decoupling Object-attribute Association."](https://arxiv.org/abs/2310.01330), **ICCV 2025 MRR Workshop**.
 * Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), **EMNLP 2025, main**.
 * Zhongtao Miao†, **Qiyu Wu**, Masaaki Nagata, and Yoshimasa Tsuruoka. “Improving Word Alignment Using Semi-Supervised Learning”, **ACL 2025 Findings**.
 * Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward."](https://openreview.net/forum?id=bXUipBbZDA), **Transactions on Machine Learning Research**.
