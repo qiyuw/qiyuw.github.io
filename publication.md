@@ -8,9 +8,13 @@ permalink: /pubs
 [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 \* indicating equal contribution; † indicating students mentored by me.
 ## 2025
+* **Qiyu Wu**, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. ["Towards Reporting Bias in Visual-language Datasets: Bimodal Augmentation by Decoupling Object-attribute Association."](https://arxiv.org/abs/2310.01330), ICCV 2025 MRR Workshop.
+* Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), **EMNLP 2025, main**.
+* Zhongtao Miao†, **Qiyu Wu**, Masaaki Nagata, and Yoshimasa Tsuruoka. “Improving Word Alignment Using Semi-Supervised Learning”, **ACL 2025 Findings**.
 * Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward."](https://openreview.net/forum?id=bXUipBbZDA), **Transactions on Machine Learning Research**.
-* Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji. ["DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning"](https://arxiv.org/pdf/2502.12623), preprint.
-* Zilong Wu, Hideki Murata, Nayu Takahashi, **Qiyu Wu**, Yoshimasa Tsuruoka. ["LatentPS: Image Editing Using Latent Representations in Diffusion Models"](https://openaccess.thecvf.com/content/WACV2025W/ImageQuality/papers/Wu_LatentPS_Image_Editing_Using_Latent_Representations_in_Diffusion_Models_WACVW_2025_paper.pdf), Proceedings of the Winter Conference on Applications of Computer Vision, 167-176.
+* Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. “Cross-Modal Learning for Music-to-Music-Video Description Generation”, **RepL4NLP-2025**.
+* Kaiyan Zhao†, Qiyu Wu, Zhongtao Miao, Yoshimasa Tsuruoka. “Prompt Tuning Can Simply Adapt Large Language Models to Text Encoders”, **RepL4NLP-2025**.
+* Zilong Wu, Hideki Murata, Nayu Takahashi, **Qiyu Wu**, Yoshimasa Tsuruoka. ["LatentPS: Image Editing Using Latent Representations in Diffusion Models"](https://openaccess.thecvf.com/content/WACV2025W/ImageQuality/papers/Wu_LatentPS_Image_Editing_Using_Latent_Representations_in_Diffusion_Models_WACVW_2025_paper.pdf), **WACV 2025**.
 
 ## 2024
 * **Qiyu Wu**, Masaaki Nagata, Zhongtao Miao, Yoshimasa Tsuruoka. ["Word Alignment as Preference for Machine Translation"](https://arxiv.org/abs/2405.09223), **EMNLP 2024, Oral**.
@@ -22,7 +26,6 @@ permalink: /pubs
 * Kaiyan Zhao*†, **Qiyu Wu\***, Xin-Qiang Cai, Yoshimasa Tsuruoka. ["Leveraging Multi-lingual Positive Instances in Contrastive Learning to Improve Sentence Embedding."](https://aclanthology.org/2024.eacl-long.59/), **EACL 2024, main conference long paper**.
 
 ## 2023
-* **Qiyu Wu**, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. ["Towards Reporting Bias in Visual-language Datasets: Bimodal Augmentation by Decoupling Object-attribute Association."](https://arxiv.org/abs/2310.01330), preprint.
 * Shiwen Wu, **Qiyu Wu**, Honghua Dong, Wen Hua, Xiaofang Zhou. ["Blocker and Matcher Can Mutually Benefit: A Co-Learning Framework for Low-Resource Entity Resolution."](https://dl.acm.org/doi/abs/10.14778/3632093.3632096), **VLDB 2024, research track paper**.
 * **Qiyu Wu**, Masaaki Nagata, Yoshimasa Tsuruoka. ["WSPAlign: Word Alignment Pre-training via Large-Scale Weakly Supervised Span Prediction."](https://aclanthology.org/2023.acl-long.621/), **ACL 2023, main conference long paper**.
   
