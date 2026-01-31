@@ -1,7 +1,8 @@
 # Bio
 
-Hi there! This is Qiyu Wu, an NLP researcher and tech lead at Multimodal NLP team of [Creative AI Lab, Sony](https://sony.github.io/creativeai/).
-Previously I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
+Hi there! This is Qiyu Wu, an NLP researcher and the tech lead at Multimodal NLP team of [Creative AI Lab, Sony](https://sony.github.io/creativeai/). We research the language-centric multimodal research that enhances content creation in music, film and games. Feel free to contact for discussion or collaboration!
+
+Before joining Sony, I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
 I have served as an Area Chair (Action Editor) for the ACL Rolling Review (ARR), supporting conferences such as ACL, EMNLP, and others. I have also acted as a program committee member (reviewer) for several top-tier conferences including ACL, EMNLP, NAACL, ICLR, NeurIPS, and ICML. Additionally, I co-organized the [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.
 **[Here is my CV](/CV.pdf)**.
 Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.linkedin.com/in/qiyuw/).
@@ -23,8 +24,10 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 -->
 
 ## News
-* 2025-07, co-organize [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025. 
-* 2025-05, a paper on word alignment is accepted to ACL findings.
+* 2026-01, two papers on multimodal embedding and LLM for music production accepted to ICLR 2026 and one paper on MIDI-to-drum generation accepted to ICASSP 2026.
+* 2025-12, co-organized [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.
+* 2025-07, a paper on [multimodal music understanding](https://aclanthology.org/2025.emnlp-main.653/) accepted to EMNLP 2025.
+* 2025-05, a paper on [word alignment](https://aclanthology.org/2025.findings-acl.1020/) is accepted to ACL findings.
 * 2025-04, a paper on [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is accepted to Transactions on Machine Learning Research.
 * 2025-02, serve as Area Chair for ACL Rolling Review.
 * 2024-10, I join [Sony Creative AI Lab](https://sony.github.io/creativeai/), I'll mainly work on multi-modal representation learning.
