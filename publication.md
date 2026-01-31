@@ -5,7 +5,7 @@ permalink: /pubs
 ---
 
 # Publications
-[Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
+Last updated: July 2025. Latest papers: [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 \* indicating equal contribution; † indicating students mentored by me.
 ## 2025
 * **Qiyu Wu**, Mengjie Zhao, Yutong He, Lang Huang, Junya Ono, Hiromi Wakaki, Yuki Mitsufuji. ["Towards Reporting Bias in Visual-language Datasets: Bimodal Augmentation by Decoupling Object-attribute Association."](https://arxiv.org/abs/2310.01330), **ICCV 2025 MRR Workshop**.
