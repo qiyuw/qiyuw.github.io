@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.clustrmaps.com 'unsafe-inline'; connect-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://clustrmaps.com https://cdn.clustrmaps.com 'unsafe-inline'; connect-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
     <link rel="shortcut icon" href="favicon.ico">
 
 {% seo %}
@@ -51,9 +51,9 @@
           <p><strong>Visitor Map</strong></p>
           {% if site.clustrmaps_token and site.clustrmaps_token != "" %}
           <script
+            type="text/javascript"
             id="clustrmaps"
-            async
-            src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d={{ site.clustrmaps_token | uri_escape }}&co=2d2d2d&ct=ffffff">
+            src="https://clustrmaps.com/map_v2.js?d={{ site.clustrmaps_token | uri_escape }}&cl=ffffff&w=a">
           </script>
           {% else %}
           <p><small>Set <code>clustrmaps_token</code> in <code>_config.yml</code> to enable the visitor map.</small></p>
