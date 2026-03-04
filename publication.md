@@ -38,7 +38,7 @@ Last updated: March 2026. Latest papers: [Google Scholar](https://scholar.google
   
 ## 2022
 * **Qiyu Wu**, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng and Daxin Jiang. ["PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings."](https://aclanthology.org/2022.emnlp-main.826/) **EMNLP 2022, main conference long paper**.
-* Yutao Xie†, **Qiyu Wu**, Wei Chen and Tengjiao Wang. ["Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning."](https://ieeexplore.ieee.org/abstract/document/9872078?casa_token=WmOgzDOxdVsAAAAA:l3sdhPMn9YUyhoab5G-YPJeYmsVNbiyPx0lwh6kkZHR0D4Nk3wUTkNywY0k5YE0P70_9AxN4) IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 30 (2022): 3046-3059.
+* Yutao Xie†, **Qiyu Wu**, Wei Chen and Tengjiao Wang. ["Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning."](https://ieeexplore.ieee.org/abstract/document/9872078) IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 30 (2022): 3046-3059.
 
 ## 2021 and Before
 * **Qiyu Wu\***, Chen Xing*, Yatao Li, Guolin Ke, Di He and Tie-Yan Liu. ["Taking Notes on the Fly Helps Language Pre-Training."](https://openreview.net/forum?id=lU5Rs_wCweN) **ICLR 2021**.

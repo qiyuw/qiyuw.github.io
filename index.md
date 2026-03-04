@@ -1,6 +1,6 @@
 # Bio
 
-Hi there! This is Qiyu Wu, an NLP researcher and the tech lead at Multimodal NLP team of [Creative AI Lab, Sony](https://sony.github.io/creativeai/). We research the language-centric multimodal research that enhances content creation in music, film and games. Feel free to contact for discussion or collaboration!
+Hi there! This is Qiyu Wu, an NLP researcher and the research lead of the Multimodal NLP team at [Creative AI Lab, Sony](https://sony.github.io/creativeai/). We conduct language-centric multimodal research to enhance content creation in music, film, and games. Feel free to contact for discussion or collaboration!
 
 Before joining Sony, I received my Ph.D. from The University of Tokyo, advised by [Yoshimasa Tsuruoka](https://www.logos.t.u-tokyo.ac.jp/~tsuruoka/) and supported by [JSPS DC Fellowship](https://www.jsps.go.jp/english/e-pd/index.html).
 I have served as an Area Chair (Action Editor) for the ACL Rolling Review (ARR), supporting conferences such as ACL, EMNLP, and others. I have also acted as a program committee member (reviewer) for several top-tier conferences including ACL, EMNLP, NAACL, ICLR, NeurIPS, and ICML. Additionally, I co-organized the [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.

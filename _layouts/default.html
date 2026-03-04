@@ -4,30 +4,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.clustrmaps.com 'unsafe-inline'; connect-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; font-src 'self' data: https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests">
     <link rel="shortcut icon" href="favicon.ico">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
   </head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G8NGCVQGBH"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-G8NGCVQGBH');
-  </script>
   <body>
     <div class="wrapper">
       <header>
 <!--         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>  -->
         <h1><a href="{{ "/" | absolute_url }}">Qiyu Wu</a></h1> 
-        <p>Researcher / Tech Lead at Sony</p>
+        <p>Researcher / Research Lead at Sony</p>
         <p>Ph.D. from UTokyo</p>
         
         {% if site.logo %}
@@ -57,6 +46,19 @@
           <li><a href="{{ site.linkedin_url }}">Reach Out <strong>Linkedin</strong></a></li>
         </ul>
         {% endif %}
+
+        <div class="visitor-map">
+          <p><strong>Visitor Map</strong></p>
+          {% if site.clustrmaps_token and site.clustrmaps_token != "" %}
+          <script
+            id="clustrmaps"
+            async
+            src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d={{ site.clustrmaps_token | uri_escape }}&co=2d2d2d&ct=ffffff">
+          </script>
+          {% else %}
+          <p><small>Set <code>clustrmaps_token</code> in <code>_config.yml</code> to enable the visitor map.</small></p>
+          {% endif %}
+        </div>
 
         <h2><a href="/">Home</a></h2>
         <h2><a href="/pubs">Publications</a></h2>
