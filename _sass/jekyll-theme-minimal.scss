@@ -58,6 +58,10 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+  display:grid;
+  grid-template-columns:270px minmax(0, 1fr);
+  column-gap:90px;
+  align-items:start;
 }
 
 blockquote {
@@ -119,10 +123,51 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  width:auto;
+  position:sticky;
+  top:50px;
+  max-height:calc(100vh - 100px);
+  overflow-y:auto;
+  padding-right:10px;
   -webkit-font-smoothing:subpixel-antialiased;
+  scrollbar-gutter:stable;
+}
+
+header p {
+  margin:0 0 10px;
+}
+
+header h2 {
+  font-size:18px;
+  margin:0 0 10px;
+}
+
+header del {
+  display:block;
+  margin-bottom:4px;
+}
+
+.visitor-map {
+  margin-top:14px;
+}
+
+.visitor-map p {
+  margin-bottom:8px;
+}
+
+.visitor-map img {
+  max-height:160px;
+  object-fit:contain;
+}
+
+.sidebar-footer {
+  border-top:1px solid #e5e5e5;
+  margin-top:18px;
+  padding-top:12px;
+}
+
+.sidebar-footer p {
+  margin-bottom:8px;
 }
 
 ul.downloads {
@@ -186,8 +231,8 @@ strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:auto;
+  min-width:0;
   padding-bottom:50px;
 }
 
@@ -232,25 +277,21 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
     margin:0;
+    display:block;
   }
 
-  header, section, footer {
+  header, section {
     float:none;
     position:static;
     width:auto;
+    max-height:none;
+    overflow:visible;
+    padding-right:0;
   }
 
   header {
@@ -268,7 +309,7 @@ footer {
     display:inline;
   }
 
-  header ul {
+  header ul.downloads {
     position:absolute;
     right:50px;
     top:52px;
@@ -284,7 +325,7 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
+  header ul.downloads, header p.view {
     position:static;
   }
 

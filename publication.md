@@ -21,6 +21,7 @@ Last updated: May 2026. Latest papers: [Google Scholar](https://scholar.google.c
 * [J1] Yutao Xie, **Qiyu Wu**, Wei Chen and Tengjiao Wang. ["Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning"](https://ieeexplore.ieee.org/abstract/document/9872078), IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 30 (2022): 3046-3059.
 
 ## Conference Papers
+* [C17] Silin Gao, Hao Zhao, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji, Li Mi, Syrielle Montariol, Antoine Bosselut. "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics", **ICML 2026**.
 * [C16] Shaomu Tan, Ryosuke Mitani, Ritvik Choudhary, **Qiyu Wu**, Toshiyuki Sekiya, Christof Monz. ["Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations"](https://arxiv.org/abs/2512.18906), **ACL 2026**.
 * [C15] Shuyang Cui, Zhi Zhong, **Qiyu Wu**, Zachary Novack, et al. ["BREAK-THE-BEAT! Controllable MIDI-to-Drum Audio Synthesis"](https://arxiv.org/abs/2605.14555), **ICASSP 2026**.
 * [C14] Seungheon Doh, Junghyun Koo, Marco A Martinez-Ramirez, Woosung Choi, Wei-Hsiang Liao, **Qiyu Wu**, Juhan Nam, Yuki Mitsufuji. ["LLM2Fx-Tools: Tool Calling For Music Post-Production"](https://arxiv.org/abs/2512.01559), **ICLR 2026**.

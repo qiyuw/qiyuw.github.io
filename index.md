@@ -16,11 +16,10 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 ## News
 <div class="news-scroll" markdown="1">
 
-* 2026-05, new manuscripts on music temporal intelligence, reasoning-driven generation/retrieval/compression, omnimodal embeddings, privileged-modality probing, MLLM-to-CLIP distillation, and composed multimodal retrieval are available or in preparation.
-* 2026-05, [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is selected for the ICML 2026 Poster Track.
+* 2026-05, a paper on schema-guided world modeling for hierarchical visual dynamics is accepted to ICML 2026, and [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is selected for the ICML 2026 Poster Track.
 * 2026-05, serve as Area Chair for NeurIPS 2026.
 * 2026-04, a paper on [generative reasoning for machine translation evaluation](https://arxiv.org/abs/2512.18906) is accepted to ACL 2026.
-* 2026-01, two papers on multimodal embedding and LLM for music production accepted to ICLR 2026 and one paper on MIDI-to-drum generation accepted to ICASSP 2026.
+* 2026-01, papers on [VIRTUE](https://arxiv.org/abs/2510.00523) and [LLM2Fx-Tools](https://arxiv.org/abs/2512.01559) are accepted to ICLR 2026, and [BREAK-THE-BEAT!](https://arxiv.org/abs/2605.14555) is accepted to ICASSP 2026.
 * 2025-12, co-organized [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.
 * 2025-07, a paper on [multimodal music understanding](https://aclanthology.org/2025.emnlp-main.653/) accepted to EMNLP 2025.
 * 2025-05, a paper on [word alignment](https://aclanthology.org/2025.findings-acl.1020/) is accepted to ACL findings.
