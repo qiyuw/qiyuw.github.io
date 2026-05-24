@@ -9,16 +9,8 @@ Last updated: May 2026. Latest papers: [Google Scholar](https://scholar.google.c
 ‡ indicating corresponding author; \* indicating equal contribution.
 
 ## Manuscripts
-* [M6] Daeyong Kwon, **Qiyu Wu**‡, Shinobu Kuriya, Junghyun Koo, Shuyang Cui, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. "MUST-BENCH: Benchmarking Music Temporal Intelligence", manuscript.
 * [M5] Zhongtao Miao, **Qiyu Wu**, Yoshimasa Tsuruoka. ["GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression"](https://arxiv.org/abs/2605.09100), manuscript.
-* [M4] Dominick Reilly, **Qiyu Wu**‡, Hiromi Wakaki, Srijan Das, Yuki Mitsufuji. "Mixture of Probes: Learning with Privileged Modalities in Multimodal LLMs Through Probing", manuscript.
-* [M3] Youngtaek Oh, **Qiyu Wu**‡, Hiromi Wakaki, Junmo Kim, Yuki Mitsufuji. "Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings", manuscript.
 * [M2] **Qiyu Wu**, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji. ["MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval"](https://arxiv.org/abs/2510.15543), manuscript.
-* [M1] Jongsuk Kim, **Qiyu Wu**‡, Zhuoyuan Mao, Hiromi Wakaki, Junmo Kim, Yuki Mitsufuji. "MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations", manuscript.
-
-## Journal Papers
-* [J2] Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward"](https://openreview.net/forum?id=bXUipBbZDA), **Transactions on Machine Learning Research; ICML 2026 Poster Track**.
-* [J1] Yutao Xie, **Qiyu Wu**, Wei Chen and Tengjiao Wang. ["Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning"](https://ieeexplore.ieee.org/abstract/document/9872078), IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 30 (2022): 3046-3059.
 
 ## Conference Papers
 * [C17] Silin Gao, Hao Zhao, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji, Li Mi, Syrielle Montariol, Antoine Bosselut. "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics", **ICML 2026**.
@@ -38,6 +30,10 @@ Last updated: May 2026. Latest papers: [Google Scholar](https://scholar.google.c
 * [C3] **Qiyu Wu**\*, Chen Xing\*, Yatao Li, Guolin Ke, Di He and Tie-Yan Liu. ["Taking Notes on the Fly Helps Language Pre-Training"](https://openreview.net/forum?id=lU5Rs_wCweN), **ICLR 2021**.
 * [C2] Hao Liu\*, **Qiyu Wu**\*, Fuzhen Zhuang, Xinjiang Lu, Dejing Dou and Hui Xiong. ["Community-Aware Multi-Task Transportation Demand Prediction"](https://ojs.aaai.org/index.php/AAAI/article/view/16107), **AAAI 2021**.
 * [C1] Dechuan Yang\*, **Qiyu Wu**\*, Wei Chen, Tengjiao Wang, Zhen Qiu, Di Liu and Yingbao Cui. "Stance Detection with Stance-Wise Convolution Network", **NLPCC 2020**.
+
+## Journal Papers
+* [J2] Yuting Tang, Xin-Qiang Cai, Yao-Xiang Ding, **Qiyu Wu**, Guoqing Liu, Masashi Sugiyama. ["Reinforcement Learning from Bagged Reward"](https://openreview.net/forum?id=bXUipBbZDA), **Transactions on Machine Learning Research; ICML 2026 Poster Track**.
+* [J1] Yutao Xie, **Qiyu Wu**, Wei Chen and Tengjiao Wang. ["Stable Contrastive Learning for Self-Supervised Sentence Embeddings With Pseudo-Siamese Mutual Learning"](https://ieeexplore.ieee.org/abstract/document/9872078), IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**) 30 (2022): 3046-3059.
 
 ## Workshop Papers
 * [W4] Zhuoyuan Mao, Mengjie Zhao, **Qiyu Wu**, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. ["Cross-Modal Learning for Music-to-Music-Video Description Generation"](https://aclanthology.org/2025.repl4nlp-1.4/), **RepL4NLP 2025**.
