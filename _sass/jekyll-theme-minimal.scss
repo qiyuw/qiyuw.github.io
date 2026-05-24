@@ -191,6 +191,36 @@ section {
   padding-bottom:50px;
 }
 
+.news-scroll {
+  max-height: 360px;
+  overflow-y: auto;
+  margin: 0 0 20px;
+  padding: 0 14px 0 0;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.news-scroll ul {
+  margin: 14px 0;
+}
+
+.news-scroll li {
+  margin-bottom: 8px;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #d0d0d0;
+  border-radius: 4px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: #f7f7f7;
+}
+
 small {
   font-size:11px;
 }
