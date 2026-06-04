@@ -1,0 +1,12 @@
+- title: "MusTBENCH"
+  short_title: "MusT"
+  description: "A music-expert-validated benchmark for evaluating temporal grounding in music large audio-language models."
+  image: ""
+  paper_url: "https://arxiv.org/abs/2605.29300"
+  project_url: "https://daeyongkwon98.github.io/mustbench/"
+
+- title: "MCA"
+  short_title: "MCA"
+  description: "Modality composition awareness for robust composed multimodal retrieval across text and visual signals."
+  image: ""
+  paper_url: "https://arxiv.org/abs/2510.15543"

@@ -5,10 +5,11 @@ permalink: /pubs
 ---
 
 # Publications
-Last updated: May 2026. Latest papers: [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
+Last updated: June 2026. Latest papers: [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 ‡ indicating corresponding author; \* indicating equal contribution.
 
 ## Manuscripts
+* [M6] Daeyong Kwon, **Qiyu Wu**, Shinobu Kuriya, Junghyun Koo, Shuyang Cui, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. ["MusTBENCH: Benchmarking and Advancing Temporal Grounding in Music LLMs"](https://arxiv.org/abs/2605.29300), manuscript. [[Project]](https://daeyongkwon98.github.io/mustbench/)
 * [M5] Zhongtao Miao, **Qiyu Wu**, Yoshimasa Tsuruoka. ["GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression"](https://arxiv.org/abs/2605.09100), manuscript.
 * [M2] **Qiyu Wu**, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji. ["MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval"](https://arxiv.org/abs/2510.15543), manuscript.
 
