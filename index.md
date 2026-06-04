@@ -18,31 +18,6 @@ Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.lin
 My research focus lies in **Multimodal NLP**, mainly encompassing multimodal LLMs as well as better representing textual semantics in both monolingual and multilingual contexts.
 I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AAAI, EACL, VLDB, etc.
 
-## Selected Projects
-
-<div class="project-list">
-{% for project in site.data.projects %}
-  <article class="project-item">
-    {% if project.image %}
-    <img class="project-image" src="{{ project.image | relative_url }}" alt="{{ project.title }} thumbnail">
-    {% else %}
-    <div class="project-image project-placeholder" aria-hidden="true">{{ project.short_title | default: project.title }}</div>
-    {% endif %}
-    <div class="project-body">
-      <h3>{{ project.title }}</h3>
-      <p>{{ project.description }}</p>
-      <p class="project-links">
-        {% assign rendered_link = false %}
-        {% if project.paper_url and project.paper_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.paper_url }}">Paper</a>{% assign rendered_link = true %}{% endif %}
-        {% if project.code_url and project.code_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.code_url }}">Code</a>{% assign rendered_link = true %}{% endif %}
-        {% if project.data_url and project.data_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.data_url }}">Data</a>{% assign rendered_link = true %}{% endif %}
-        {% if project.project_url and project.project_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.project_url }}">Project</a>{% endif %}
-      </p>
-    </div>
-  </article>
-{% endfor %}
-</div>
-
 ## News
 <div class="news-scroll" markdown="1">
 
@@ -78,6 +53,31 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 * 2020-12, a paper with Baidu Research is accepted to AAAI 2021.
 * 2020-04, start internship at Machine Learning Group, Microsoft Research Asia, Beijing.
 
+</div>
+
+## Recent Research
+
+<div class="project-list">
+{% for project in site.data.projects %}
+  <article class="project-item">
+    {% if project.image %}
+    <img class="project-image" src="{{ project.image | relative_url }}" alt="{{ project.title }} thumbnail">
+    {% else %}
+    <div class="project-image project-placeholder" aria-hidden="true">{{ project.short_title | default: project.title }}</div>
+    {% endif %}
+    <div class="project-body">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+      <p class="project-links">
+        {% assign rendered_link = false %}
+        {% if project.paper_url and project.paper_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.paper_url }}">Paper</a>{% assign rendered_link = true %}{% endif %}
+        {% if project.code_url and project.code_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.code_url }}">Code</a>{% assign rendered_link = true %}{% endif %}
+        {% if project.data_url and project.data_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.data_url }}">Data</a>{% assign rendered_link = true %}{% endif %}
+        {% if project.project_url and project.project_url != "" %}{% if rendered_link %}<span aria-hidden="true">/</span>{% endif %}<a href="{{ project.project_url }}">Project</a>{% endif %}
+      </p>
+    </div>
+  </article>
+{% endfor %}
 </div>
 
 <!-- 
