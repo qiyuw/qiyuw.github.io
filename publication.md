@@ -9,11 +9,12 @@ Last updated: June 2026. Latest papers: [Google Scholar](https://scholar.google.
 ‡ indicating corresponding author; \* indicating equal contribution.
 
 ## Manuscripts
-* [M6] Daeyong Kwon, **Qiyu Wu**, Shinobu Kuriya, Junghyun Koo, Shuyang Cui, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. ["MusTBENCH: Benchmarking and Advancing Temporal Grounding in Music LLMs"](https://arxiv.org/abs/2605.29300), manuscript. [[Project]](https://daeyongkwon98.github.io/mustbench/)
-* [M5] Zhongtao Miao, **Qiyu Wu**, Yoshimasa Tsuruoka. ["GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression"](https://arxiv.org/abs/2605.09100), manuscript.
-* [M2] **Qiyu Wu**, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji. ["MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval"](https://arxiv.org/abs/2510.15543), manuscript.
-
+* [M3] Daeyong Kwon, **Qiyu Wu**, Shinobu Kuriya, Junghyun Koo, Shuyang Cui, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji. ["MusTBENCH: Benchmarking and Advancing Temporal Grounding in Music LLMs"](https://arxiv.org/abs/2605.29300), manuscript. [[Project]](https://daeyongkwon98.github.io/mustbench/)
+* [M2] Zhongtao Miao, **Qiyu Wu**, Yoshimasa Tsuruoka. ["GRC: Unifying Reasoning-Driven Generation, Retrieval and Compression"](https://arxiv.org/abs/2605.09100), manuscript.
 ## Conference Papers
+* [C20] **Qiyu Wu**, Shuyang Cui, Satoshi Hayakawa, Wei-Yao Wang, Hiromi Wakaki, Yuki Mitsufuji. ["MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval"](https://arxiv.org/abs/2510.15543), **EMNLP 2026 Main**.
+* [C19] Jongsuk Kim, **Qiyu Wu**‡, Zhuoyuan Mao, Hiromi Wakaki, Junmo Kim, Yuki Mitsufuji. "MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations", **EMNLP 2026 Main**.
+* [C18] Youngtaek Oh, **Qiyu Wu**‡, Hiromi Wakaki, Junmo Kim, Yuki Mitsufuji. "Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings", **EMNLP 2026 Findings**.
 * [C17] Silin Gao, Hao Zhao, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, **Qiyu Wu**, Hiromi Wakaki, Yuki Mitsufuji, Li Mi, Syrielle Montariol, Antoine Bosselut. "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics", **ICML 2026**.
 * [C16] Shaomu Tan, Ryosuke Mitani, Ritvik Choudhary, **Qiyu Wu**, Toshiyuki Sekiya, Christof Monz. ["Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations"](https://arxiv.org/abs/2512.18906), **ACL 2026**.
 * [C15] Shuyang Cui, Zhi Zhong, **Qiyu Wu**, Zachary Novack, et al. ["BREAK-THE-BEAT! Controllable MIDI-to-Drum Audio Synthesis"](https://arxiv.org/abs/2605.14555), **ICASSP 2026**.

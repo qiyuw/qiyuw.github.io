@@ -58,7 +58,7 @@ B.Eng. in Computer Science and Technology.
 
 ### Advised Students
 
-Youngtaek Oh [M3], Daeyong Kwon [M6], Dominick Reilly [M4], Jongsuk Kim [M1], Zhongtao Miao [M5, C8, C11], Kaiyan Zhao [C7, W3], Yutao Xie [J1].
+Youngtaek Oh [C18], Daeyong Kwon [M3], Dominick Reilly [M1], Jongsuk Kim [C19], Zhongtao Miao [M2, C8, C11], Kaiyan Zhao [C7, W3], Yutao Xie [J1].
 
 ### Academic Service
 
