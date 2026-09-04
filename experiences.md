@@ -70,6 +70,8 @@ Organizer of [GenProCC Workshop](https://genprocc.github.io/) at NeurIPS 2025.
 
 ### Awards and Other Experience
 
+[ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (Top 1.4%, 2026).
+
 JSPS DC2 Fellowship (2024).
 
 Teaching Assistant of [Social Implications of Computing](https://joshhug.github.io/sic19/) at Peking University (2019).

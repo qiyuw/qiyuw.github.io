@@ -21,7 +21,7 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 ## News
 <div class="news-scroll" markdown="1">
 * 2026-08, 3 papers accepted to EMNLP 2026 (2 Main, 1 Findings).
-* 2026-07, selected as an [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/).
+* 2026-07, selected as an [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (top 1.4%).
 * 2026-06, gave an [AiTech Seminar guest talk](https://www.nlp.comp.isct.ac.jp/news/2026/06/01/aitech.en.html) at Okazaki Lab, Institute of Science Tokyo.
 * 2026-05, a paper on schema-guided world modeling for hierarchical visual dynamics is accepted to ICML 2026, and [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is selected for the ICML 2026 Poster Track.
 * 2026-05, serve as Area Chair for NeurIPS 2026.
