@@ -58,7 +58,13 @@ B.Eng. in Computer Science and Technology.
 
 ### Advised Students
 
-Youngtaek Oh [C18], Daeyong Kwon [M3], Dominick Reilly [M1], Jongsuk Kim [C19], Zhongtao Miao [M2, C8, C11], Kaiyan Zhao [C7, W3], Yutao Xie [J1].
+- Youngtaek Oh: [Syn-Omni](/pubs#syn-omni).
+- Daeyong Kwon: [MusTBench](/pubs#mustbench).
+- Dominick Reilly: [Mixture of Probes](/pubs#mixture-of-probes).
+- Jongsuk Kim: [MLLMCLIP](/pubs#mllmclip).
+- Zhongtao Miao: [GRC](/pubs#grc), [Cross-lingual Sentence Embedding](/pubs#low-resource-cross-lingual-embedding), [Semi-supervised Word Alignment](/pubs#semi-supervised-word-alignment).
+- Kaiyan Zhao: [Multilingual Contrastive Learning](/pubs#multilingual-contrastive-embedding), [Prompt Tuning for Text Encoders](/pubs#prompt-tuning-encoders).
+- Yutao Xie: [Pseudo-Siamese Mutual Learning](/pubs#pseudo-siamese-embedding).
 
 ### Academic Service
 

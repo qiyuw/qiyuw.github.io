@@ -16,10 +16,11 @@ Reach out to me by wuqiyu576 [AT] gmail [DOT] com, or [LinkedIn](https://www.lin
 
 ## Research Interests
 My research focus lies in **Multimodal NLP**, mainly encompassing multimodal LLMs as well as better representing textual semantics in both monolingual and multilingual contexts.
-I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, ICLR, ICML, AAAI, EACL, VLDB, etc.
+I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML, AAAI, EACL, VLDB, etc.
 
 ## News
 <div class="news-scroll" markdown="1">
+* 2026-10, [Mixture of Probes](https://arxiv.org/abs/2607.08839) and [Searching Videos as Trees](https://arxiv.org/abs/2607.16189) are accepted to NeurIPS 2026.
 * 2026-08, 3 papers accepted to EMNLP 2026 (2 Main, 1 Findings).
 * 2026-07, selected as an [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (top 1.4%).
 * 2026-06, gave an [AiTech Seminar guest talk](https://www.nlp.comp.isct.ac.jp/news/2026/06/01/aitech.en.html) at Okazaki Lab, Institute of Science Tokyo.
@@ -68,6 +69,7 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
     {% endif %}
     <div class="project-body">
       <h3>{{ project.title }}</h3>
+      {% if project.venue and project.venue != "" %}<p class="project-venue">{{ project.venue }}</p>{% endif %}
       <p>{{ project.description }}</p>
       <p class="project-links">
         {% assign rendered_link = false %}

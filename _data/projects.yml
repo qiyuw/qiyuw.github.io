@@ -1,22 +1,47 @@
-# Project fields:
-# - image, paper_url, code_url, data_url, and project_url are optional.
-# - Leave an optional field as "" when it is not available; empty fields are not shown on the homepage.
-# - Put project images under /images/projects/ and reference them like "images/projects/example.png".
+# Featured research: first / co-first author or corresponding author papers only.
+# - venue, image, paper_url, code_url, data_url, and project_url are optional.
+# - Leave unavailable optional links as ""; they are not shown on the homepage.
+# - Put images under /images/projects/.
+# - Add only verified public resources; announced but unavailable repositories stay empty.
 
-- title: "MusTBENCH"
-  short_title: "MusT"
-  description: "A music-expert-validated benchmark for evaluating temporal grounding in music large audio-language models."
-  image: "images/projects/mustbench.png"
-  paper_url: "https://arxiv.org/abs/2605.29300"
+# Figure: https://arxiv.org/html/2607.08839v1/teaser.png
+- title: "Mixture of Probes"
+  short_title: "MoP"
+  venue: "NeurIPS 2026"
+  description: "Learning from training-only privileged modalities through structured probing, improving multimodal LLMs when only one modality is available at inference."
+  image: "images/projects/mop.png"
+  paper_url: "https://arxiv.org/abs/2607.08839"
   code_url: ""
   data_url: ""
-  project_url: "https://daeyongkwon98.github.io/mustbench/"
+  project_url: ""
 
 - title: "MCA"
   short_title: "MCA"
-  description: "Modality composition awareness for robust composed multimodal retrieval across text and visual signals."
+  venue: "EMNLP 2026 Main, Oral"
+  description: "Modality composition awareness reduces modality shortcuts and improves composed multimodal retrieval under distribution shifts."
   image: "images/projects/mca.png"
   paper_url: "https://arxiv.org/abs/2510.15543"
   code_url: ""
   data_url: ""
   project_url: ""
+
+# Figure: https://arxiv.org/html/2608.25575v1/main3.png
+- title: "MLLMCLIP"
+  short_title: "MLLMCLIP"
+  venue: "EMNLP 2026 Main"
+  description: "Feature-level distillation transfers knowledge from multimodal LLMs to CLIP, improving compositional understanding and vision-language representations."
+  image: "images/projects/mllmclip.png"
+  paper_url: "https://arxiv.org/abs/2608.25575"
+  code_url: ""
+  data_url: ""
+  project_url: ""
+
+- title: "MusTBench"
+  short_title: "MusT"
+  venue: "Preprint 2026"
+  description: "A music-expert-validated benchmark with five temporal grounding tasks, paired with MusT training to improve temporal understanding in music LLMs."
+  image: "images/projects/mustbench.png"
+  paper_url: "https://arxiv.org/abs/2605.29300"
+  code_url: "https://github.com/sony/MusTBench"
+  data_url: "https://github.com/sony/MusTBench/tree/main/benchmarks"
+  project_url: "https://daeyongkwon98.github.io/mustbench/"
