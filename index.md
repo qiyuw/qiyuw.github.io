@@ -20,39 +20,39 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 
 ## News
 <div class="news-scroll" markdown="1">
-* 2026-10, [Mixture of Probes](https://arxiv.org/abs/2607.08839) and [Searching Videos as Trees](https://arxiv.org/abs/2607.16189) are accepted to NeurIPS 2026.
-* 2026-08, 3 papers accepted to EMNLP 2026 (2 Main, 1 Findings).
+* 2026-10, [Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing](https://arxiv.org/abs/2607.08839) and [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](https://arxiv.org/abs/2607.16189) are accepted to **NeurIPS 2026**.
+* 2026-08, 3 papers accepted to EMNLP 2026: [MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543) (**Main, Oral**), [MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations](https://arxiv.org/abs/2608.25575) (**Main**), and [Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings](/pubs#syn-omni) (**Findings**).
 * 2026-07, selected as an [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (top 1.4%).
 * 2026-06, gave an [AiTech Seminar guest talk](https://www.nlp.comp.isct.ac.jp/news/2026/06/01/aitech.en.html) at Okazaki Lab, Institute of Science Tokyo.
-* 2026-05, a paper on schema-guided world modeling for hierarchical visual dynamics is accepted to ICML 2026, and [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is selected for the ICML 2026 Poster Track.
+* 2026-05, [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](https://arxiv.org/abs/2607.04112) is accepted to **ICML 2026**, and [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is selected for the **ICML 2026 Poster Track**.
 * 2026-05, serve as Area Chair for NeurIPS 2026.
-* 2026-04, a paper on [generative reasoning for machine translation evaluation](https://arxiv.org/abs/2512.18906) is accepted to ACL 2026.
-* 2026-01, papers on [VIRTUE](https://arxiv.org/abs/2510.00523) and [LLM2Fx-Tools](https://arxiv.org/abs/2512.01559) are accepted to ICLR 2026, and [BREAK-THE-BEAT!](https://arxiv.org/abs/2605.14555) is accepted to ICASSP 2026.
+* 2026-04, [Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations](https://arxiv.org/abs/2512.18906) is accepted to **ACL 2026**.
+* 2026-01, [VIRTUE: Visual-Interactive Text-Image Universal Embedder](https://arxiv.org/abs/2510.00523) and [LLM2Fx-Tools: Tool Calling For Music Post-Production](https://arxiv.org/abs/2512.01559) are accepted to **ICLR 2026**, and [BREAK-THE-BEAT! Controllable MIDI-to-Drum Audio Synthesis](https://arxiv.org/abs/2605.14555) is accepted to **ICASSP 2026**.
 * 2025-12, co-organized [GenProCC](https://genprocc.github.io/) Workshop at NeurIPS 2025.
-* 2025-07, a paper on [multimodal music understanding](https://aclanthology.org/2025.emnlp-main.653/) accepted to EMNLP 2025.
-* 2025-05, a paper on [word alignment](https://aclanthology.org/2025.findings-acl.1020/) is accepted to ACL findings.
+* 2025-07, [DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning](https://aclanthology.org/2025.emnlp-main.653/) is accepted to **EMNLP 2025 Main**.
+* 2025-05, [Improving Word Alignment Using Semi-Supervised Learning](https://aclanthology.org/2025.findings-acl.1020/) is accepted to **ACL 2025 Findings**.
 * 2025-04, a paper on [Reinforcement Learning from Bagged Reward](https://openreview.net/forum?id=bXUipBbZDA) is accepted to Transactions on Machine Learning Research.
 * 2025-02, serve as Area Chair for ACL Rolling Review.
 * 2024-10, I join [Sony Creative AI Lab](https://sony.github.io/creativeai/), I'll mainly work on multi-modal representation learning.
-* 2024-09, a long paper on [word-level preference for machine translation](https://arxiv.org/abs/2405.09223) is accepted to EMNLP 2024 main conference (Oral).
-* 2024-04, a paper on [generalized diffusion model](https://arxiv.org/abs/2402.19009) is accepted to ICML 2024.
-* 2024-03, a paper on [low-resource language sentence embedding](https://aclanthology.org/2024.findings-naacl.204/) accepted to NAACL 2024 findings.
-* 2024-01, a long paper on [multilingual sentence embedding](https://arxiv.org/abs/2309.08929) accepted to EACL 2024 main conference.
+* 2024-09, [Word Alignment as Preference for Machine Translation](https://arxiv.org/abs/2405.09223) is accepted to **EMNLP 2024 Main, Oral**.
+* 2024-04, [Unified Generation, Reconstruction, and Representation: Generalized Diffusion with Adaptive Latent Encoding-Decoding](https://arxiv.org/abs/2402.19009) is accepted to **ICML 2024**.
+* 2024-03, [Enhancing Cross-lingual Sentence Embedding for Low-resource Languages with Word Alignment](https://aclanthology.org/2024.findings-naacl.204/) is accepted to **NAACL 2024 Findings**.
+* 2024-01, [Leveraging Multi-lingual Positive Instances in Contrastive Learning to Improve Sentence Embedding](https://arxiv.org/abs/2309.08929) is accepted to **EACL 2024 Main**.
 * 2023-11, just visited and gave talks at [Osaka University](https://yukiar.github.io/) and [Kyoto University](https://nlp.ist.i.kyoto-u.ac.jp/EN/), "Mitigating Reporting Bias in Visual- Language Datasets w/ Large Generative Models". [[Slides]](papers/KyotoU-Talk.pdf)
 * 2023-09, I'm fortunate to be selected as [Research Fellowships for Young Scientists (DC2), JSPS](https://www.jsps.go.jp/english/e-pd/index.html)!
-* 2023-08, a paper collaborated with HKUST about [entity matching](https://dl.acm.org/doi/abs/10.14778/3632093.3632096) is accepted to VLDB 2024.
+* 2023-08, [Blocker and Matcher Can Mutually Benefit: A Co-Learning Framework for Low-Resource Entity Resolution](https://dl.acm.org/doi/abs/10.14778/3632093.3632096), in collaboration with HKUST, is accepted to **VLDB 2024 Research Track**.
 * 2023-07, attending ACL 2023 in Toronto, will present [WSPAlign](https://github.com/qiyuw/WSPAlign) in-person.
 * 2023-06, give a talk at Sony, "Leveraging Unlabeled Text: Data-centric Approaches to Improve NLP Training". [[Slides]](papers/Data-Centric%20NLP%20public%20version.pdf)
 * 2023-06, start my internship at [Creative AI Lab, Sony](https://sony.github.io/creativeai/), Tokyo, I will work on NLP for multi-modal training.
-* 2023-05, a long paper with [NTT CS lab](https://www.rd.ntt/e/cs/team_project/icl/lirg/index.html) about word alignment is accepted to ACL 2023 main conference.
+* 2023-05, [WSPAlign: Word Alignment Pre-training via Large-Scale Weakly Supervised Span Prediction](https://aclanthology.org/2023.acl-long.621/), in collaboration with [NTT CS lab](https://www.rd.ntt/e/cs/team_project/icl/lirg/index.html), is accepted to **ACL 2023 Main**.
 * 2023-01, start visiting San Diego as a visiting student at UCSD.
-* 2022-12, attend EMNLP 2022 at Abu Dhabi, will present a paper about diverse augmentations for sentence embeddings.
-* 2022-10, a long paper with Microsoft accepted to EMNLP 2022 conference.
+* 2022-12, attending EMNLP 2022 in Abu Dhabi to present [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://aclanthology.org/2022.emnlp-main.826/).
+* 2022-10, [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://aclanthology.org/2022.emnlp-main.826/), in collaboration with Microsoft, is accepted to **EMNLP 2022 Main**.
 * 2021-10, I join [Tsuruoka Lab](https://www.logos.t.u-tokyo.ac.jp/index-en.html) at University of Tokyo as PhD student!
 * 2021-10, I am glad to be selected to be supported by [JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program](https://www.cis-trans.jp/spring_gx/index-e.html) from 2021 to 2024!
 * 2021-04, invited talk at [TechBeat](https://www.techbeat.net/), "Light language pre-training". [[Slides]](papers/Light%20Language%20Pre-trianing.pdf)
-* 2021-01, a paper with Microsoft Research Asia about language pre-training is accepted to ICLR 2021.
-* 2020-12, a paper with Baidu Research is accepted to AAAI 2021.
+* 2021-01, [Taking Notes on the Fly Helps Language Pre-Training](https://openreview.net/forum?id=lU5Rs_wCweN), in collaboration with Microsoft Research Asia, is accepted to **ICLR 2021**.
+* 2020-12, [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107), in collaboration with Baidu Research, is accepted to **AAAI 2021**.
 * 2020-04, start internship at Machine Learning Group, Microsoft Research Asia, Beijing.
 
 </div>

@@ -8,8 +8,6 @@ permalink: /pubs
 Last updated: October 2026. Latest papers: [Google Scholar](https://scholar.google.com/citations?user=oDn0AnwAAAAJ) \
 ‡ indicating corresponding author; \* indicating equal contribution.
 
-Papers are grouped by contribution and listed newest first within each group.
-
 <!-- Publication IDs below match CV.tex. Keep IDs fixed when a paper changes venue or status; append new IDs within each group. -->
 
 ## (Co-)First
