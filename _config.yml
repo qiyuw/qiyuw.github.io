@@ -8,7 +8,9 @@ google_url: https://scholar.google.com/citations?user=oDn0AnwAAAAJ
 show_downloads: True
 logo: /favicon.ico
 portrait: /portrait.jpg
-clustrmaps_token: gX26Gy4zINxbjRxawqAoxCeb2K_L3W8XCPWN-IeK5KA
+# Website identifier from the MapMyVisitors globe embed code.
+mapmyvisitors_token: Wj6cagaVFNRkupewF32T5F0kYLUiCyi9ykTSpg6Q6No
+mapmyvisitors_stats_url: https://mapmyvisitors.com/web/1c8nl
 
 
 # theme

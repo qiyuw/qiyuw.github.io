@@ -59,16 +59,13 @@
           <del>wuqiyu [AT] pku [DOT] edu.cn</del>
         </div>
 
+        {% if site.mapmyvisitors_token and site.mapmyvisitors_token != "" %}
         <div class="visitor-map" style="margin-top: 1rem;">
           <p><strong>Visitor Map</strong></p>
-          {% if site.clustrmaps_token and site.clustrmaps_token != "" %}
-          <a href="https://clustrmaps.com/site/1c9d5" title="ClustrMaps">
-            <img src="https://www.clustrmaps.com/map_v2.png?d={{ site.clustrmaps_token | uri_escape }}&cl=ffffff" alt="ClustrMaps visitor map" />
-          </a>
-          {% else %}
-          <p><small>Set <code>clustrmaps_token</code> in <code>_config.yml</code> to enable the visitor map.</small></p>
-          {% endif %}
+          <iframe src="{{ '/assets/visitor-globe.html' | relative_url }}" title="Visitor locations on MapMyVisitors"></iframe>
+          <p><small><a href="{{ site.mapmyvisitors_stats_url | escape }}">View visitor statistics</a></small></p>
         </div>
+        {% endif %}
 
         <div class="sidebar-footer">
           {% if site.github.is_project_page %}

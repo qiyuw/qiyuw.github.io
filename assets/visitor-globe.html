@@ -1,0 +1,22 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The provider uses JSONP and eval; keep these permissions in this widget page. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src https://mapmyvisitors.com https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js 'unsafe-eval'; connect-src https://mapmyvisitors.com; img-src data: https://mapmyvisitors.com; style-src 'unsafe-inline'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+    <title>Visitor Globe</title>
+    <style>html, body { margin: 0; padding: 0; background: transparent; } .globe-container { width: 100%; max-width: 240px; }</style>
+  </head>
+  <body>
+    {% if site.mapmyvisitors_token and site.mapmyvisitors_token != "" %}
+    <div class="globe-container">
+      <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_token | uri_escape }}"></script>
+      <noscript><img src="https://mapmyvisitors.com/map.png?d={{ site.mapmyvisitors_token | uri_escape }}&amp;cl=ffffff" alt="Visitor locations" style="max-width: 100%;"></noscript>
+    </div>
+    {% endif %}
+  </body>
+</html>
