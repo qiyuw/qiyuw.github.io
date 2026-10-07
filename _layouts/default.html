@@ -62,7 +62,9 @@
         {% if site.mapmyvisitors_token and site.mapmyvisitors_token != "" %}
         <div class="visitor-map" style="margin-top: 1rem;">
           <p><strong>Visitor Map</strong></p>
-          <iframe src="{{ '/assets/visitor-globe.html' | relative_url }}" title="Visitor locations on MapMyVisitors"></iframe>
+          <a href="{{ site.mapmyvisitors_stats_url | escape }}" title="View visitor statistics on MapMyVisitors">
+            <img src="https://mapmyvisitors.com/map.png?d={{ site.mapmyvisitors_token | uri_escape }}&amp;cl=ffffff" alt="Visitor locations on MapMyVisitors" />
+          </a>
           <p><small><a href="{{ site.mapmyvisitors_stats_url | escape }}">View visitor statistics</a></small></p>
         </div>
         {% endif %}

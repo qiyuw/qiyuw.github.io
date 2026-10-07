@@ -8,8 +8,8 @@ google_url: https://scholar.google.com/citations?user=oDn0AnwAAAAJ
 show_downloads: True
 logo: /favicon.ico
 portrait: /portrait.jpg
-# Website identifier from the MapMyVisitors globe embed code.
-mapmyvisitors_token: Wj6cagaVFNRkupewF32T5F0kYLUiCyi9ykTSpg6Q6No
+# Website identifier from the MapMyVisitors image embed code.
+mapmyvisitors_token: Ethrmod3LIU81sftMvfy6tJzeGfiOa0uuYNX2N_weyU
 mapmyvisitors_stats_url: https://mapmyvisitors.com/web/1c8nl
 
 
