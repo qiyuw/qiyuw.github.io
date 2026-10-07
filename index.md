@@ -20,6 +20,7 @@ I have published papers [More](/pubs) at conferences such as ACL, EMNLP, NAACL, 
 
 ## News
 <div class="news-scroll" markdown="1">
+* 2026-10, I will serve as **Session Chair** for "Semantics: Lexical and Sentence-Level" at **EMNLP 2026**.
 * 2026-10, [Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing](https://arxiv.org/abs/2607.08839) and [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](https://arxiv.org/abs/2607.16189) are accepted to **NeurIPS 2026**.
 * 2026-08, 3 papers accepted to EMNLP 2026: [MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543) (**Main, Oral**), [MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations](https://arxiv.org/abs/2608.25575) (**Main**), and [Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings](/pubs#syn-omni) (**Findings**).
 * 2026-07, selected as an [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (top 1.4%).

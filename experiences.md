@@ -68,6 +68,8 @@ B.Eng. in Computer Science and Technology.
 
 ### Academic Service
 
+Session Chair for "Semantics: Lexical and Sentence-Level" at EMNLP 2026.
+
 Area Chair of ACL Rolling Review (2025 -- Present); NeurIPS (2026 -- Present).
 
 Reviewer of ACL Rolling Review, EMNLP, ICLR, NeurIPS, ICML, etc. (2021 -- Present).
