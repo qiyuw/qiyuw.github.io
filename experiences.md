@@ -78,6 +78,8 @@ Organizer of [GenProCC Workshop](https://genprocc.github.io/) at NeurIPS 2025.
 
 ### Awards and Other Experience
 
+NeurIPS 2026 Top Area Chair (2026).
+
 [ACL 2026 Outstanding Reviewer](https://2026.aclweb.org/program/outstanding_reviewers/) (Top 1.4%, 2026).
 
 JSPS DC2 Fellowship (2024).
